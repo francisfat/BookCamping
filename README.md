@@ -2,7 +2,7 @@
 Repository privata per la condivisione di codice del progetto di Software Architecture Design: Book Camping
 
 ## Come poter eseguire l'applicazione Web
-### Per istruzioni più dettagliate, visionare la documentazione
+
 
 1) Scaricare l'ambiente di sviluppo Eclipse IDE for Enterprise Java and Web Developers (versione 4.19.0)
 2) Scaricare il server Tomcat version 9.0.45
@@ -11,3 +11,5 @@ Repository privata per la condivisione di codice del progetto di Software Archit
 5) Il progetto è un "Dynamic Web Project" e bisogna associarlo al Server appena configurato
 6) Effettuare la build e cliccare su Run on Server
 7) Aprire un browser generico e http://http://localhost:8080/BookCamping/ (link che indirizza sul file "index.html")
+
+### Per istruzioni più dettagliate, visionare la documentazione
