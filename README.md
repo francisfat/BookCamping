@@ -2,7 +2,7 @@
 Repository privata per la condivisione di codice del progetto di Software Architecture Design: Book Camping
 
 ## Come poter eseguire l'applicazione Web
-# Per delle istruzioni maggiori, visionare la documentazione
+### Per istruzioni più dettagliate, visionare la documentazione
 
 1) Scaricare l'ambiente di sviluppo Eclipse IDE for Enterprise Java and Web Developers (versione 4.19.0)
 2) Scaricare il server Tomcat version 9.0.45
